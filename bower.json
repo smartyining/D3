@@ -1,0 +1,22 @@
+{
+  "name": "yes",
+  "homepage": "https://github.com/smartyining/D3",
+  "authors": [
+    "smartyining <yg1305@nyu.edu>"
+  ],
+  "description": "none",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "^2.2.3",
+    "d3": "^3.5.16"
+  }
+}
